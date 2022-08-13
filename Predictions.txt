@@ -1,0 +1,8 @@
+Prediction
+
+I think that the Random Forest Classifier model will perform better as this type of model is able to be used more effectively within a larger dataset.
+
+
+
+Actual
+The Random Forest model performed better which is what I predicted. With this type of model, it is able to use a subset of the data to create the individual simple trees but once combined, gives us a better and stronger classifier model. Since it uses different random samples for each individual decision tree, it is able to  provide a more robust prediction and can be used within larger datasets.
